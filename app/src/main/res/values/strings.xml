@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RunTimeFragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="icons_desc">Icons from icons8 (https://icons8.com)</string>
+</resources>
